@@ -1,0 +1,22 @@
+{
+    "name": "nacho2",
+    "displayName": "nacho2",
+    "description": "color theme",
+    "version": "0.2.0",
+    "publisher": "nachocab",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nacho2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nacho2-color-theme.json"
+            }
+        ]
+    }
+}
