@@ -1,22 +1,23 @@
 {
-    "name": "nacho2",
-    "displayName": "nacho2",
-    "description": "color theme",
-    "version": "0.2.0",
-    "publisher": "nachocab",
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nacho2",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nacho2-color-theme.json"
-            }
-        ]
-    }
+  "name": "nacho2",
+  "displayName": "nacho2",
+  "description": "color theme",
+  "version": "0.2.0",
+  "publisher": "nachocab",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": "https://github.com/nachocab/nacho2-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nacho2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nacho2-color-theme.json"
+      }
+    ]
+  }
 }
