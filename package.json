@@ -2,7 +2,7 @@
   "name": "nacho2",
   "displayName": "nacho2",
   "description": "color theme",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "nachocab",
   "engines": {
     "vscode": "^1.20.0"
