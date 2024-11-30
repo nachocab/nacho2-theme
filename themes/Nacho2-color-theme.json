@@ -705,7 +705,7 @@
       "name": "Meta Attribute Rust",
       "scope": ["meta.attribute.rust"],
       "settings": {
-        "foreground": "#BCC199"
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -747,7 +747,7 @@
       "name": "[VSCODE-CUSTOM] Support Constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#4F48DA"
+        "foreground": "#726ce5"
       }
     },
     {
