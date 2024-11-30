@@ -747,7 +747,7 @@
       "name": "[VSCODE-CUSTOM] Support Constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#4F48DA"
       }
     },
     {
