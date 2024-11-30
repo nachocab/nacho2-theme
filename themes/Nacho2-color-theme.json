@@ -1528,49 +1528,49 @@
     },
     {
       "name": "Heading 2 Nacho",
-      "scope": ["entity.name.function.nacho"],
+      "scope": "entity.name.function.nacho",
       "settings": {
         "foreground": "#61AFEF"
       }
     },
     {
       "name": "Heading 3 Nacho",
-      "scope": ["entity.name.tag.nacho"],
+      "scope": "entity.name.tag.nacho",
       "settings": {
         "foreground": "#D86C74"
       }
     },
     {
       "name": "Heading 4 Nacho",
-      "scope": ["constant.nacho"],
+      "scope": "constant.nacho",
       "settings": {
         "foreground": "#D29A66"
       }
     },
     {
       "name": "Heading 5 Nacho",
-      "scope": ["string.nacho"],
+      "scope": "string.nacho",
       "settings": {
         "foreground": "#A0C684"
       }
     },
     {
       "name": "Heading 6 Nacho",
-      "scope": ["storage.nacho"],
+      "scope": "storage.nacho",
       "settings": {
         "foreground": "#CE86E4"
       }
     },
     {
       "name": "Heading 7 Nacho",
-      "scope": ["meta.attribute.rust.nacho"],
+      "scope": "meta.attribute.rust.nacho",
       "settings": {
         "foreground": "#D7B87D"
       }
     },
     {
       "name": "Heading 8+ Nacho",
-      "scope": ["support.constant.nacho"],
+      "scope": "support.constant.nacho",
       "settings": {
         "foreground": "#B864EB"
       }
