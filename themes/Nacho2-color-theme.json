@@ -747,7 +747,7 @@
       "name": "[VSCODE-CUSTOM] Support Constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#726ce5"
+        "foreground": "#6a4cff"
       }
     },
     {
@@ -1524,6 +1524,55 @@
       "scope": "meta.class.php",
       "settings": {
         "foreground": "#ABB2BF"
+      }
+    },
+    {
+      "name": "Heading 2 Nacho",
+      "scope": ["entity.name.function.nacho"],
+      "settings": {
+        "foreground": "#61AFEF"
+      }
+    },
+    {
+      "name": "Heading 3 Nacho",
+      "scope": ["entity.name.tag.nacho"],
+      "settings": {
+        "foreground": "#D86C74"
+      }
+    },
+    {
+      "name": "Heading 4 Nacho",
+      "scope": ["constant.nacho"],
+      "settings": {
+        "foreground": "#D29A66"
+      }
+    },
+    {
+      "name": "Heading 5 Nacho",
+      "scope": ["string.nacho"],
+      "settings": {
+        "foreground": "#A0C684"
+      }
+    },
+    {
+      "name": "Heading 6 Nacho",
+      "scope": ["storage.nacho"],
+      "settings": {
+        "foreground": "#CE86E4"
+      }
+    },
+    {
+      "name": "Heading 7 Nacho",
+      "scope": ["meta.attribute.rust.nacho"],
+      "settings": {
+        "foreground": "#D7B87D"
+      }
+    },
+    {
+      "name": "Heading 8+ Nacho",
+      "scope": ["support.constant.nacho"],
+      "settings": {
+        "foreground": "#B864EB"
       }
     }
   ],
