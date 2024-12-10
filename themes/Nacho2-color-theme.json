@@ -1572,7 +1572,8 @@
       "name": "Heading 8+ Nacho",
       "scope": "support.constant.nacho",
       "settings": {
-        "foreground": "#B864EB"
+        // "foreground": "#B864EB"
+        "foreground": "#af33fc"
       }
     }
   ],
